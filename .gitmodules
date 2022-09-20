@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FieldSimR"]
+	path = FieldSimR
+	url = https://github.com/crwerner/fieldsimr
+	shallow = true
+	registered = true
